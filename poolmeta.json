@@ -2,5 +2,6 @@
   "name": "Prism",
   "description": "Prism Stake Pool",
   "ticker": "PRISM",
+  "homepage": "",
   "extended": "https://raw.githubusercontent.com/PrismStaking/apex/main/metadata-extended.json"
 }
