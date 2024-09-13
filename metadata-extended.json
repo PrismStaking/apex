@@ -1,0 +1,20 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/PrismStaking/apex/main/prism_64.jpg?raw=true",
+		"url_png_logo": "https://raw.githubusercontent.com/PrismStaking/apex/main/prism_64.jpg?raw=true",
+		"location": "United States",
+		"social": {
+			"twitter_handle": "",
+			"telegram_handle": "",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": ""
+		},
+		"about": {
+			"me": "Prism Staking",
+			"server": ""
+		}
+	},
+	"verification": "" 
+}
